@@ -3,7 +3,7 @@
 #pragma once
 
 #define MATRIX_SIZE (100)
-#define MAX_ITER (300)
+#define MAX_ITER (1000)
 #define MAX_TOL (1e-4)
 #define RHO (0.1)
 #define ALPHA (1.6)
